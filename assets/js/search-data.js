@@ -50,7 +50,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-joined-max-planck-institute-for-polymer-research",
-          title: 'Joined Max Planck Institute for Polymer Research.',
+          title: 'Joined Max Planck Institute for Polymer Research',
           description: "",
           section: "News",},{id: "news-joined-working-group-of-max-planck-phdnet-mpg-as-web-group-coordinator-from-jan-23-to-jan-25",
           title: 'Joined Working group of Max Planck PhDnet, MPG as Web group coordinator from...',
