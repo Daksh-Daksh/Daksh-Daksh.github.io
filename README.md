@@ -1,1 +1,1 @@
-Academic website of Daksh
+Academic website of Dr. Daksh
