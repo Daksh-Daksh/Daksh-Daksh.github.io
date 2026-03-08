@@ -24,9 +24,9 @@ latest_posts:
 ---
 Hello, welcome to my homepage!
 
-My name is Daksh, and I am working as doctoral student in the Electron Microscopy Group at [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home){:target="_blank"} in Mainz, working under the supervision of [Prof. Katharina Landfester](https://www.mpip-mainz.mpg.de/en/landfester/director){:target="_blank"} and [Dr. Ingo Lieberwirth](https://www.mpip-mainz.mpg.de/en/landfester/groups/lieberwirth){:target="_blank"}. I am currently in the final stage of my doctoral studies and will be soon defending my thesis.
+My name is Daksh, and I completed my PhD in the Electron Microscopy Group at [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home){:target="_blank"} in Mainz, working under the supervision of [Prof. Katharina Landfester](https://www.mpip-mainz.mpg.de/en/landfester/director){:target="_blank"} and [Dr. Ingo Lieberwirth](https://www.mpip-mainz.mpg.de/en/landfester/groups/lieberwirth){:target="_blank"}.
 
-For my doctoral studies, I worked on automating Correlative Light and Electron Microscopy (CLEM) imaging using deep learning. As part of this work, I have submitted a patent application in collaboration with Max Planck Innovations.
+In my doctoral studies, I worked on Automated Correlative Light and Electron Microscopy (CLEM) using deep learning. As part of my doctoral work, I have submitted a patent license application in collaboration with Max Planck Innovations.
 
 My research focuses on automated Correlative Light and Electron Microscopy (CLEM) using Deep Learning to identify intracellular nanoparticles. I am  working on multi-resolution cross-modality image registration with automated image pre-processing using training free unsupervised deep learning. This project leads me to learn more about localization of events in biological image analysis and focusing in depth of intracellular nanostructures and nanotargets lying in the different bio-image datasets.
 
