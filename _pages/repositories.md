@@ -8,7 +8,7 @@ nav_order: 4
 
 {% if site.data.repositories.github_users %}
 
-## GitHub User
+## GitHub User Profile
 
 <div>
   {% for user in site.data.repositories.github_users %}
