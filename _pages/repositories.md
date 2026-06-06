@@ -10,28 +10,15 @@ nav_order: 4
 
 ## GitHub User
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+<div>
   {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
+    <a href="https://github.com/{{ user }}">{{ user }}</a><br>
   {% endfor %}
 </div>
 
----
-
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
-
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
+{% endif %}
 
 ---
-
-{% endfor %}
-{% endif %}
-{% endif %}
 
 {% if site.data.repositories.github_repos %}
 
@@ -42,4 +29,5 @@ nav_order: 4
     {% include repository/repo.liquid repository=repo %}
   {% endfor %}
 </div>
+
 {% endif %}
