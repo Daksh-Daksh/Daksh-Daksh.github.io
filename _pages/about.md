@@ -2,7 +2,7 @@
 layout: about
 title: "About"
 permalink: "/"
-subtitle: "<a href='#'>Affiliations</a>. Max Planck Institute for Polymer Research, Mainz, Germany."
+subtitle: "<a href='#'>Affiliations</a>. Postdoctoral researcher & research computer scientist at Slovak Academy of Sciences, Bratislava, Slovakia."
 
 profile:
   align: right
@@ -24,7 +24,9 @@ latest_posts:
 ---
 Hello, welcome to my homepage!
 
-My name is Daksh, and I have completed my PhD in the Electron Microscopy Group at [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home){:target="_blank"} in Mainz, working under the supervision of [Prof. Katharina Landfester](https://www.mpip-mainz.mpg.de/en/landfester/director){:target="_blank"} and [Dr. Ingo Lieberwirth](https://www.mpip-mainz.mpg.de/en/landfester/groups/lieberwirth){:target="_blank"}.
+My name is Daksh, and I am a postdoctoral researcher and research computer scientist at the [Institute of Measurement Science, Department of Imaging Methods, Slovak Academy of Sciences(SAS)](https://um.sav.sk/en/){:target="_blank"} in Bratislava, Slovakia.
+
+Before Joining Slovak Academy of Sciences(SAS), I have completed my PhD in the Electron Microscopy Group at [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home){:target="_blank"} in Mainz, working under the supervision of [Prof. Katharina Landfester](https://www.mpip-mainz.mpg.de/en/landfester/director){:target="_blank"} and [Dr. Ingo Lieberwirth](https://www.mpip-mainz.mpg.de/en/landfester/groups/lieberwirth){:target="_blank"}.
 
 In my doctoral studies, I worked on Automated Correlative Light and Electron Microscopy (CLEM) using deep learning. As part of my doctoral work, I have submitted a patent license application in collaboration with Max Planck Innovations.
 
