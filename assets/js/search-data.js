@@ -65,7 +65,7 @@ ninja.data = [{
           title: 'Patent application submitted for “Multimodal Training-Free Registration Using Mutual Image Information” with software...',
           description: "",
           section: "News",},{id: "news-joined-institute-of-measurement-science-department-of-imaging-methods-slovak-academy-of-sciences-sas-in-bratislava-slovakia",
-          title: 'Joined Institute of Measurement Science, Department of Imaging Methods, Slovak Academy of Sciences(SAS)...',
+          title: 'Joined Institute of Measurement Science, Department of Imaging Methods, Slovak Academy of Sciences...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
