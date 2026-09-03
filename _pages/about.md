@@ -2,7 +2,8 @@
 layout: about
 title: "About"
 permalink: "/"
-subtitle: '<a href='#'>Affiliations</a>. Postdoctoral researcher & research computer scientist at [Slovak Academy of Sciences (SAS)](https://um.sav.sk/en/){:target="_blank"}, Bratislava, Slovakia.'
+subtitle: "<a href='#'>Affiliations</a>. Postdoctoral researcher & research computer scientist at [Slovak Academy of Sciences (SAS)](https://um.sav.sk/en/), Bratislava, Slovakia."
+
 
 profile:
   align: right
