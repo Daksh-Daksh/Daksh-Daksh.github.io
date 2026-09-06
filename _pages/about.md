@@ -2,7 +2,7 @@
 layout: about
 title: "About"
 permalink: "/"
-subtitle: "<a href='#'>Affiliations</a>. Postdoctoral researcher & research computer scientist at Institute of Measurement Science Slovak Academy of Sciences (IMS SAS), Bratislava, Slovakia."
+subtitle: "<a href='#'>Affiliations</a>. Postdoctoral researcher & research computer scientist at Institute of Measurement Science, Slovak Academy of Sciences (IMS SAS), Bratislava, Slovakia."
 
 profile:
   align: right
