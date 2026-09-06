@@ -6,7 +6,7 @@
     - name: Nationality
       value: Indian
     - name: Email
-      value: daksh@mpip-mainz.mpg.de; dakshgfsu@gmail.com
+      value: dakshgfsu@gmail.com
     - name: Mobile
       value: (+49)-1779228749
     - name: Languages
@@ -15,7 +15,7 @@
 - title: Areas of research
   type: list
   contents:
-    - Machine / Deep Learning for image processing (multi-dimensional image datasets e.g. bio/medical image datasets)
+    - Machine / Deep Learning for image processing (multi-dimensional image datasets e.g. bio/medical image datasets), Correlative Microscopy usig Deep Learning
     - Exploring new diversified areas in computer vision & pattern recognization
     - Self-supervised, unsupervised deep leaarning models
     - Multi-modal & Generative AI and diffusion models
