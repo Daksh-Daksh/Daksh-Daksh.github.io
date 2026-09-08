@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Dr. Daksh Daksh
+      value: Dr. Daksh
     - name: Nationality
       value: Indian
     - name: Email
-      value: dakshgfsu@gmail.com
+      value: dakshgfsu@gmail.com, daksh.daksh@savba.sk
     - name: Mobile
       value: (+49)-1779228749
     - name: Languages
@@ -15,7 +15,8 @@
 - title: Areas of research
   type: list
   contents:
-    - Machine / Deep Learning for image processing (multi-dimensional image datasets e.g. bio/medical image datasets), Deep Learning for Correlative Microscopy 
-    - Exploring new diversified areas in computer vision & pattern recognization
-    - Self-supervised and unsupervised deep learning models
-    - Multi-modal AI, Generative AI and diffusion & foundation models
+    - Machine / Deep Learning for image processing (multi-dimensional biomedical image datasets but not limited too)
+    - Deep Learning for Correlative Microscopy (Doctoral Project). 
+    - Exploring new diversified areas in computer vision & pattern recognization.
+    - Self-supervised and unsupervised deep learning models - GANs, CNN & DNNs. 
+    - Multi-modal AI, Generative AI and diffusion & foundation models for AI.
