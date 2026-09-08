@@ -15,7 +15,7 @@
 - title: Areas of research
   type: list
   contents:
-    - Machine / Deep Learning for image processing (multi-dimensional biomedical image datasets but not limited too)
+    - Machine / Deep Learning for image processing (multi-dimensional biomedical image datasets but not limited too).
     - Deep Learning for Correlative Microscopy (Doctoral Project). 
     - Exploring new diversified areas in computer vision & pattern recognization.
     - Self-supervised and unsupervised deep learning models - GANs, CNNs & DNNs.
